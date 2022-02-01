@@ -35,6 +35,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/tayfun">
+<a href="https://github.com/tayfundursun">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tayfundursun&show_icons=true&theme=light&line_height=27" alt="Tayfun's github stats"/>
 </a>
