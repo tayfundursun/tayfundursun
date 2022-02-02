@@ -19,7 +19,7 @@
 - 🔭 I’m currently learning Responsive Web Design.
 - 💬 Ask me anything you would like.
 - 📫 How to reach me: [Twitter - @tayfundursun_](https://twitter.com/tayfundursun_)
-- ⚡ Fun fact: I like mountaing hiking, and play drums & guitar.
+- ⚡ Fun fact: I like mountain hiking, and play drums & guitar.
 
 <br/>
 
