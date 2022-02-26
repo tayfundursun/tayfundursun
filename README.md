@@ -16,7 +16,7 @@
 <br/>
 
 - 👨 I'm a student and developer.
-- 🔭 I’m currently learning Responsive Web Design.
+- 🔭 I’m currently learning JavaScript, Algorithms and Data Structures.
 - 💬 Ask me anything you would like.
 - 📫 How to reach me: [Twitter - @tayfundursun_](https://twitter.com/tayfundursun_)
 - ⚡ Fun fact: I like mountain hiking, and play drums & guitar.
