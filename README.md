@@ -1,7 +1,5 @@
 ## Hello, I'm Tayfun 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayfundursun&label=Views&color=blue&style=plastic" alt="iamtayfun" /> </p>
-
 <a href="https://twitter.com/tayfundursun_">
   <img align="left" alt="Tayfun's Twitter" width="22px" style="margin-right: 10px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
